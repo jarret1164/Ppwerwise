@@ -1,0 +1,6 @@
+{
+  "name": "PowerWise Africa",
+  "description": "Understand your power. Reduce your costs. Practical energy calculation, solar & battery sizing, and verified solar provider directory for African households and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
